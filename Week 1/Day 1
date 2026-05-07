@@ -1,1 +1,126 @@
-
+Salesforce Summer Program – Day 1 Submission
+📌 1. What problem does Salesforce solve?
+Salesforce solves the problem of managing customer relationships, business operations, and sales processes efficiently in one centralized platform.
+Before CRM tools like Salesforce, companies stored customer information in spreadsheets, emails, or separate software systems, which caused:
+Data duplication
+Poor communication between teams
+Loss of customer information
+Slow sales processes
+Difficulty tracking customer interactions
+Salesforce helps organizations by:
+Storing all customer data in one place
+Tracking sales, leads, and customer support
+Automating workflows and tasks
+Improving communication between teams
+Increasing productivity and customer satisfaction
+It enables businesses to make better decisions using real-time data and analytics.
+📌 2. What is CRM?
+CRM stands for Customer Relationship Management.
+CRM is a technology and strategy used by companies to manage interactions with customers and potential customers.
+The main goals of CRM are:
+Improving customer relationships
+Increasing sales
+Providing better customer support
+Organizing customer data efficiently
+A CRM system stores information such as:
+Customer names and contact details
+Purchase history
+Emails and communication records
+Customer issues and support tickets
+Sales opportunities
+Salesforce is one of the most popular cloud-based CRM platforms in the world.
+📌 3. What is an Object in Salesforce? Give one example.
+In Salesforce, an Object is like a database table used to store specific types of information.
+Objects contain:
+Fields (columns)
+Records (rows/data)
+Example:
+The Student Object can store:
+Student Name
+Roll Number
+Branch
+Email
+Phone Number
+Standard Objects in Salesforce:
+Lead
+Contact
+Account
+Opportunity
+Custom Objects:
+Objects created by users according to business needs.
+Example:
+Library Management
+College Attendance
+Hostel Management
+Objects help organize and manage data efficiently inside Salesforce.
+📌 4. Difference between Salesforce Admin and Developer
+Salesforce Admin
+Salesforce Developer
+Manages Salesforce platform configuration
+Builds custom applications and logic
+Works mostly with clicks and settings
+Works with code and programming
+Creates users, reports, dashboards
+Develops Apex classes and Lightning components
+Configures workflows and automation
+Creates custom functionality
+No deep coding required
+Requires programming knowledge
+Focuses on system management
+Focuses on application development
+Simple Understanding:
+Admin → Configures and manages Salesforce
+Developer → Builds and customizes Salesforce applications
+📌 5. Suggest one real-world application that can be built using Salesforce.
+College Management System
+A College Management System can be developed using Salesforce to manage:
+Student records
+Faculty details
+Attendance
+Course management
+Fee tracking
+Examination results
+Notifications and communication
+Possible Salesforce Objects:
+Student
+Faculty
+Course
+Attendance
+Exam
+Fee
+Department
+Benefits:
+Centralized student information
+Easy communication
+Automated workflows
+Better data management
+Real-time reports and dashboards
+💡 Optional Challenge – College Management System Design
+Objects to Create in Salesforce
+Standard/Custom Objects:
+Student
+Faculty
+Course
+Department
+Attendance
+Examination
+Results
+Fees
+Hostel
+Library
+📚 Day 1 Learnings
+Learned the meaning of CRM
+Understood why companies use Salesforce
+Learned about Salesforce interface basics
+Understood Objects, Fields, and Records
+Learned the difference between Admin and Developer roles
+Explored Salesforce data model concepts
+Started Trailhead modules:
+Platform Basics
+Data Model Basics
+❓ Doubts / Questions
+How does Salesforce store huge amounts of customer data?
+What is the difference between Standard Objects and Custom Objects in real projects?
+How do Salesforce Developers deploy applications to companies?
+What programming languages are used in Salesforce development?
+How does Salesforce maintain security for customer information?
